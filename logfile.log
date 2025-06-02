@@ -1,0 +1,15 @@
+DEBUG:root:DEBUG
+INFO:root:INFO
+WARNING:root:WARNING
+ERROR:root:ERROR
+CRITICAL:root:CRITICAL
+INFO:10:50:58:the value of x is 20 (Line 8)[logging_learning.py]
+INFO:10:50:58:the value of x is 20 (Line 9)[logging_learning.py]
+INFO:10:50:58:hello world (Line 12)[logging_learning.py]
+DEBUG:10:50:58:DEBUG (Line 13)[logging_learning.py]
+INFO:10:50:58:This is a function in another module. (Line 4)[other_module.py]
+INFO:10:50:59:the value of x is 20 (Line 8)[logging_learning.py]
+INFO:10:50:59:the value of x is 20 (Line 9)[logging_learning.py]
+INFO:10:50:59:hello world (Line 12)[logging_learning.py]
+DEBUG:10:50:59:DEBUG (Line 13)[logging_learning.py]
+INFO:10:50:59:This is a function in another module. (Line 4)[other_module.py]
